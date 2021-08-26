@@ -8,4 +8,7 @@ A markdown file is a text file with special formating. these files have extensio
 Fig. 1 My first try at drawing a computer <<This is a figure caption
 
 In **Fig 1** i tired to draw a computer and i included only a cardboard box. At this point I... << This is a description
-                                                                     List of commands in Markdown                                
+List of commands in Markdown      
+# title
+#subtitle         
+                                                                                                     
