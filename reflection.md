@@ -1,4 +1,4 @@
-### STOP THINK WRITE
+# STOP THINK WRITE
 
 ## Steps in the design cycle
   - plan
